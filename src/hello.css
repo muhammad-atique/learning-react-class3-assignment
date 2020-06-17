@@ -1,12 +1,5 @@
+.app_div,
 .hello_para {
     color: white;
-    background-color: teal;
-    font-weight: bold;
-}
-
-.app_div {
-    color: white;
     background-color: blue;
-    font-weight: bolder;
-    font-size: larger;
 }
