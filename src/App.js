@@ -7,7 +7,7 @@ import './hello.css'
 const App = ({ name, age, space }) => < div className = "app_div" > Hello from { name }
 whose age is { age - 10 } { space }
 years old. <
-    br / > < Hello fullName = "Atique. This is being imported as tree in App.js" > < /Hello> < /
+    br / > < Hello fullName = "Muhammad Atique. This is being imported as tree in App.js" > < /Hello> < /
 div > ;
 
 
